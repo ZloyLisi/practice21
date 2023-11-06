@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practice21</string>
+    <string name="btn_start">Запустить</string>
+    <string name="btn_stop">Остановиться</string>
+    <string name="btn_clear">Перезапустить</string>
+    <string name="timer">00:00:00</string>
+</resources>
